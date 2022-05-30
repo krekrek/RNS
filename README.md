@@ -1,6 +1,6 @@
-# STD_Note_Rust
+# Rust Study Note
 
-Rust Std Note
+Rust Study Note
 
 Develop Code by Rust
 
