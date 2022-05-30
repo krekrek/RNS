@@ -1,4 +1,4 @@
-# Rust Study Note
+# RSN
 
 Rust Study Note
 
