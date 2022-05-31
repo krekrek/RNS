@@ -1,4 +1,4 @@
-fn main() {
+fn main() { 
     let my_variable = 27;
     println!("{:x} {:o} {:b}", my_variable,my_variable,my_variable);
     // 위와 같이 {:-}는 C언어에서의 포멧스트링(%) 처럼 사용되며 아래와 같은 옵션들이 있음.
