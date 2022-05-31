@@ -20,4 +20,4 @@ fn main() {
     let a = "SEOUL";
     let b = "TOKYO";
     println!("{:-<15}{:->15}", a, b); // 15개의 '-'왼쪽에 a문자열을, 오른쪽에 b문자열을 출력
-}
+} 
